@@ -1,1 +1,2 @@
-# Redes
+# Redes de computadores
+  A imagem mostra a conexão de 8 redes através de 4 roteadores no software Cisco Packet Tracer. Para o bom funcionamento dessas redes foi necessário realizar a configuração dos dispositivos interconectados,além de criar uma documentação de cada configuração para cada dispositivo e das redes que estão conectadas e as redes que não estão conectadas a determinado roteador.Logo torna-se fácil realizar o roteamento de uma rede para outra rede. Basicamente defini os endereços IPv4 estático para cada rede, além de definir os IPv4 dos roteadores para que sirvam de caminho de um roteador para outro.
